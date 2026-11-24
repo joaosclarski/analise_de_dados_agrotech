@@ -5,7 +5,7 @@ Auditoria de dados e indicadores gerenciais da base de vendas consolidada das fi
 | Item | Conteúdo |
 |---|---|
 | Integrante | João Vitor Sclarski |
-| Disciplina | [Nome da disciplina] |
+| Disciplina | Linguagem e Projeto de Banco de Dados |
 | SGBD | MySQL 8.0 (testado no 8.0.46) |
 | Script único | [`AgroTech_Joao_Vitor_Sclarski.sql`](AgroTech_Joao_Vitor_Sclarski.sql) |
 | Slides | [`AgroTech_KPIs_Joao_Vitor_Sclarski.pptx`](AgroTech_KPIs_Joao_Vitor_Sclarski.pptx) |

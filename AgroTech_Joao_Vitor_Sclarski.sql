@@ -2,6 +2,7 @@
 -- ATIVIDADE PRÁTICA — AUDITORIA DE DADOS E INDICADORES GERENCIAIS
 -- Empresa: AgroTech Solutions
 -- Integrante: João Vitor Sclarski
+-- Disciplina: Linguagem e Projeto de Banco de Dados
 -- SGBD: MySQL 8.0
 --
 -- Ordem de execução: este arquivo deve ser executado do início ao fim,
